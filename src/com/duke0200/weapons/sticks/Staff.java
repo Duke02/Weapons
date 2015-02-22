@@ -3,6 +3,9 @@ package com.duke0200.weapons.sticks;
 import com.duke0200.weapons.Weapon;
 
 /**
+ * Staff Class. Not the kind of staff you find at the workplace, the staff is a two handed weapon with an 
+ * above average range and small defense, but makes up for the less than stellar defense with its fast attack 
+ * speed. 
  * 
  * @author The Duke
  * @since 0.2
@@ -65,7 +68,7 @@ public class Staff extends Weapon {
 	}
 	
 	public Staff() {
-		super("Staff", 4, 1, 3, 1.8, 2);
+		super("Staff", 4, 1, 3, 1.8, 2, 15);
 	}
 
 }

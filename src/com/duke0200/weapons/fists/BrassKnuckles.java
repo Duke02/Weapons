@@ -3,6 +3,8 @@ package com.duke0200.weapons.fists;
 import com.duke0200.weapons.Weapon;
 
 /**
+ * BrassKnuckles Class. Being rather limited on range, brass knuckles provide no defense and less attack than 
+ * a sword, but make up for it with their fast attack. 
  * 
  * @author The Duke
  * @since 0.2
@@ -66,6 +68,6 @@ public class BrassKnuckles extends Weapon {
 	 * Default BrassKnuckles Constructor. Makes some ordinary brass knuckles. 
 	 */
 	public BrassKnuckles() {
-		super("Brass Knuckles", 3, 0, 1, 1.7, 1);
+		super("Brass Knuckles", 3, 0, 1, 1.7, 1, 5);
 	}
 }

@@ -1,6 +1,8 @@
 package com.duke0200.weapons.axes;
 
 /**
+ * BattleAxe Class. With a higher attack and slower speed than its superclass Axe, the BattleAxe packs a punch.
+ *  Or slice...
  * 
  * @author The Duke
  * @since 0.2

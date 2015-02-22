@@ -3,6 +3,17 @@ package com.duke0200.weapons.blades;
 import com.duke0200.weapons.Weapon;
 
 /**
+ * Sword Class. The sword is the basis for most bladed weapons.
+ *  To be used in comparison for other weapons.
+ * <br>Stats - 
+ * <ul>
+ * <li>Attack - 4
+ * <li>Defense - 2
+ * <li>Speed - 2.1
+ * <li>Range - 2
+ * <li>Hands - 1 -> 2
+ * <li>Strength - 20
+ * </ul>
  * 
  * @author The Duke
  * @since 0.2
@@ -71,7 +82,7 @@ public class Sword extends Weapon {
 	 */
 	
 	public Sword() {
-		super("Sword", 4, 2, 2, 2.1, 1);
+		super("Sword", 4, 2, 2, 2.1, 1, 20);
 	}
 
 }

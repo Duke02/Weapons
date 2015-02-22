@@ -1,6 +1,7 @@
 package com.duke0200.weapons.axes;
 
 /**
+ * ThrowingAxes Class. Basically a small axe that you can throw.
  * 
  * @author The Duke
  * @since 0.2
@@ -63,7 +64,7 @@ public class ThrowingAxes extends Axe {
 	 * Default ThrowingAxes Constructor. Makes an ordinary ThrowingAxe
 	 */
 	public ThrowingAxes() {
-		super("Throwing Axe", 4, 1, 7, 2.5, 1);
+		super("Throwing Axe", 4, 1, 7, 2.5, 1, 15);
 	}
 
 }

@@ -2,6 +2,15 @@ package com.duke0200.weapons.sticks;
 
 import com.duke0200.weapons.Weapon;
 
+/**
+ * Spear Class. Being a long stick, the spear can reach enemies further away than a sword can but is balanced with its
+ * lower defense and slower attack.
+ * 
+ * @author The Duke
+ * @since 0.2
+ *
+ */
+
 public class Spear extends Weapon {
 
 	/**
@@ -59,7 +68,7 @@ public class Spear extends Weapon {
 	 */
 	
 	public Spear() {
-		super("Spear", 4, 1, 4, 2.3, 2);
+		super("Spear", 4, 1, 4, 2.3, 2, 15);
 	}
 
 }

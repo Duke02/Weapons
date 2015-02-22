@@ -3,6 +3,8 @@ package com.duke0200.weapons.axes;
 import com.duke0200.weapons.Weapon;
 
 /**
+ * Axe Class. The SuperClass of all axe variants, the axe has a higher attack and range than a sword, 
+ * but has a slower attack. 
  * 
  * @author The Duke
  * @since 0.2

@@ -3,6 +3,8 @@ package com.duke0200.weapons.sticks;
 import com.duke0200.weapons.Weapon;
 
 /**
+ * Lance Class. The lance is a lot like a spear, but provides more defense and attack but has a much slower attack 
+ * and less range. 
  * 
  * @author The Duke
  * @since 0.2
@@ -65,7 +67,7 @@ public class Lance extends Weapon {
 	 * Default Lance Constructor to make regular Lance
 	 */
 	public Lance() {
-		super("Lance", 5, 2, 3, 2.9, 1);
+		super("Lance", 5, 2, 3, 2.9, 1, 20);
 	}
 
 }

@@ -1,9 +1,11 @@
 package com.duke0200.weapons;
 
 /**
+ * Weapon Class. Class that all weapons are extended from in some way.
+ *  Default Constructor is very OP by the way.
  * 
  * @author The Duke
- * @version 0.2
+ * @version 0.3
  * @since 0.1
  *
  */

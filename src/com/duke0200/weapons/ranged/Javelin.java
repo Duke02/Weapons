@@ -3,6 +3,7 @@ package com.duke0200.weapons.ranged;
 import com.duke0200.weapons.sticks.Spear;
 
 /**
+ * Javelin Class. Basically a spear you throw.
  * 
  * @author The Duke
  * @since 0.2

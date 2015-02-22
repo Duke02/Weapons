@@ -1,6 +1,8 @@
 package com.duke0200.weapons.blades;
 
 /**
+ * Longsword Class. Slower than a sword, the longsword makes up for it with a 
+ * slightly higher attack and defense, as well as range.
  * 
  * @author The Duke
  * @since 0.2
@@ -64,6 +66,6 @@ public class LongSword extends Sword {
 	 */
 	
 	public LongSword() {
-		super("Longsword", 5, 3, 3, 2.7, 2);
+		super("Longsword", 5, 3, 3, 2.7, 2, 25);
 	}
 }
