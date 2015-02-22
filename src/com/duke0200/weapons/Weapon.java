@@ -5,7 +5,7 @@ package com.duke0200.weapons;
  *  Default Constructor is very OP by the way.
  * 
  * @author The Duke
- * @version 0.3
+ * @version 0.4
  * @since 0.1
  *
  */
